@@ -32,7 +32,7 @@ echo Completed Successfully!
 echo ==========================================
 echo.
 echo Now push using:
-echo git push origin test-c
+echo git push origin gen
 pause
 exit /b
 
